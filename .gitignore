@@ -1,2 +1,7 @@
+# ignore folder containing datasets, models & other outputs
+datasets
+models
+outputs
+
 # ignore cache files created by sMOMENT
 sMOMENT/_cache
