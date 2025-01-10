@@ -5,3 +5,4 @@ outputs
 
 # ignore cache files created by sMOMENT
 sMOMENT/_cache
+sMOMENT/create_sMOMENT_model_terminal.txt
