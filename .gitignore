@@ -1,7 +1,16 @@
 # ignore folder containing datasets, models & other outputs
-datasets
-models
-outputs
+datasets/ftINIT/*
+datasets/sMOMENT/*
+datasets/validation/*
+models/*
+outputs/*
+model_validation/validation_data/*
+model_validation/ftINIT_model_comparison.ipynb
+model_validation/pathway_flux_comparison.ipynb
+model_validation/sMOMENT_model_comparison.ipynb
+model_validation/sMOMENT_model_test.ipynb
+ftINIT/ftINIT_workflow_melanocytes
+ftINIT/ftINIT_workflow_A375.m
 
 # ignore cache files created by sMOMENT
 sMOMENT/_cache

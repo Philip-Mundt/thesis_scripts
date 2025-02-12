@@ -1,0 +1,8 @@
+(<your_conda_env>) .../path/to/autopacmen$
+python -m autopacmen.modeling_create_smoment_model 
+--input_sbml_path /path/to/thesis_scripts/models/<your_model>.xml 
+--project_folder /path/to/thesis_scripts/datasets/sMOMENT/autopacmen_input/ 
+--project_name <your_project_name> 
+--output_sbml_name <your_output_name> 
+--excluded_reactions "" 
+--type_of_default_kcat_selection "mean"
